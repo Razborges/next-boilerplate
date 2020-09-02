@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course call
 ## Use boilerplate
 
 ```
-  yarn create next-app -e
+  yarn create next-app -e https://github.com/Razborges/next-boilerplate
 ```
 
 ## What is inside?
